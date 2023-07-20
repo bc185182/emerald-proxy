@@ -1,0 +1,6 @@
+C:\EmeraldProxySolution\EmeraldProxy\bin\Debug\EmeraldProxy.dll
+C:\EmeraldProxySolution\EmeraldProxy\bin\Debug\EmeraldProxy.pdb
+C:\EmeraldProxySolution\EmeraldProxy\obj\Debug\EmeraldProxy.csproj.CoreCompileInputs.cache
+C:\EmeraldProxySolution\EmeraldProxy\obj\Debug\EmeraldProxy.dll
+C:\EmeraldProxySolution\EmeraldProxy\obj\Debug\EmeraldProxy.pdb
+C:\EmeraldProxySolution\EmeraldProxy\bin\Debug\EmeraldProxy.dll.config

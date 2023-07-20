@@ -1,0 +1,29 @@
+C:\EmeraldProxySolution\EmeraldProxyRunner\bin\Debug\EmeraldProxyRunner.exe.config
+C:\EmeraldProxySolution\EmeraldProxyRunner\bin\Debug\EmeraldProxyRunner.exe
+C:\EmeraldProxySolution\EmeraldProxyRunner\bin\Debug\EmeraldProxyRunner.pdb
+C:\EmeraldProxySolution\EmeraldProxyRunner\bin\Debug\EmeraldProxy.dll
+C:\EmeraldProxySolution\EmeraldProxyRunner\bin\Debug\EmeraldProxy.pdb
+C:\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.csprojAssemblyReference.cache
+C:\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.EmeraldProxyRunnerForm.resources
+C:\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.Properties.Resources.resources
+C:\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.csproj.GenerateResource.cache
+C:\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.csproj.CoreCompileInputs.cache
+C:\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.csproj.CopyComplete
+C:\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.exe
+C:\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.pdb
+C:\EmeraldProxySolution\EmeraldProxyRunner\bin\Debug\EmeraldProxy.dll.config
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyRunner\bin\Debug\EmeraldProxyRunner.exe.config
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyRunner\bin\Debug\EmeraldProxyRunner.exe
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyRunner\bin\Debug\EmeraldProxyRunner.pdb
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyRunner\bin\Debug\EmeraldProxy.dll
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyRunner\bin\Debug\EmeraldProxy.pdb
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyRunner\bin\Debug\EmeraldProxy.dll.config
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.csproj.AssemblyReference.cache
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.EmeraldProxyRunnerForm.resources
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.Properties.Resources.resources
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.csproj.GenerateResource.cache
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.csproj.CoreCompileInputs.cache
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.csproj.CopyComplete
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.exe
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyRunner\obj\Debug\EmeraldProxyRunner.pdb

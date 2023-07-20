@@ -1,0 +1,23 @@
+C:\EmeraldProxySolution\EmeraldProxyManager\bin\Debug\EmeraldProxyManager.exe.config
+C:\EmeraldProxySolution\EmeraldProxyManager\bin\Debug\EmeraldProxyManager.exe
+C:\EmeraldProxySolution\EmeraldProxyManager\bin\Debug\EmeraldProxyManager.pdb
+C:\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.EmeraldProxyManagerForm.resources
+C:\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.Properties.Resources.resources
+C:\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.csproj.GenerateResource.cache
+C:\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.csproj.CoreCompileInputs.cache
+C:\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.exe
+C:\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.pdb
+C:\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.csprojAssemblyReference.cache
+C:\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.RtiEditor.resources
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyManager\bin\Debug\EmeraldProxyManager.exe.config
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyManager\bin\Debug\EmeraldProxyManager.exe
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyManager\bin\Debug\EmeraldProxyManager.pdb
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.csproj.AssemblyReference.cache
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.EmeraldProxyManagerForm.resources
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.Properties.Resources.resources
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.RtiEditor.resources
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.csproj.GenerateResource.cache
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.csproj.CoreCompileInputs.cache
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.exe
+C:\Users\BC185182\OneDrive - NCR Corporation\Desktop\EmeraldProxySolution\EmeraldProxyManager\obj\Debug\EmeraldProxyManager.pdb

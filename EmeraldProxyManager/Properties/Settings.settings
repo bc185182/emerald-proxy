@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EmeraldProxyManager.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FilesPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\R10HttpProxy</Value>
+    </Setting>
+    <Setting Name="OriginalFiles" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">OriginalFiles</Value>
+    </Setting>
+    <Setting Name="EditedFiles" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">EditedFiles</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
