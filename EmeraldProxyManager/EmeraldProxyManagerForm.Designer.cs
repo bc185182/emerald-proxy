@@ -264,7 +264,6 @@
             this.label7.Size = new System.Drawing.Size(96, 15);
             this.label7.TabIndex = 23;
             this.label7.Text = "Edit Requests";
-            this.label7.Visible = false;
             // 
             // lvEditRequests
             // 
@@ -277,7 +276,6 @@
             this.lvEditRequests.TabIndex = 22;
             this.lvEditRequests.UseCompatibleStateImageBehavior = false;
             this.lvEditRequests.View = System.Windows.Forms.View.List;
-            this.lvEditRequests.Visible = false;
             // 
             // label8
             // 
@@ -288,7 +286,6 @@
             this.label8.Size = new System.Drawing.Size(107, 15);
             this.label8.TabIndex = 25;
             this.label8.Text = "Edit Responses";
-            this.label8.Visible = false;
             // 
             // lvEditResponses
             // 
@@ -301,7 +298,6 @@
             this.lvEditResponses.TabIndex = 24;
             this.lvEditResponses.UseCompatibleStateImageBehavior = false;
             this.lvEditResponses.View = System.Windows.Forms.View.List;
-            this.lvEditResponses.Visible = false;
             // 
             // btnRequestStopEdit
             // 
@@ -407,7 +403,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1402, 947);
+            this.ClientSize = new System.Drawing.Size(1402, 899);
             this.Controls.Add(this.txbResponseServiceName);
             this.Controls.Add(this.lblResponseServiceName);
             this.Controls.Add(this.txbRequestServiceName);

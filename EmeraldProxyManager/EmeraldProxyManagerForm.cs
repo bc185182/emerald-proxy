@@ -44,7 +44,29 @@ namespace EmeraldProxyManager
             ResponseServicesToEdit = new List<string>();
 
             AllOperations = GetOperationsFromConfiguration();
-            
+
+            LoadEditedServices();
+        }
+
+        private void LoadEditedServices()
+        {
+            lvEditRequests.Items.Clear();
+
+            foreach (string service in AllOperations.Where(o => o.RtiType == RtiType.Request)
+                            .Select(p => p.ServiceName).Distinct())
+            {
+                ListViewItem item = new ListViewItem(service);
+                lvEditRequests.Items.Add(item);
+            }
+
+            lvEditResponses.Items.Clear();
+
+            foreach (string service in AllOperations.Where(o => o.RtiType == RtiType.Response)
+                            .Select(p => p.ServiceName).Distinct())
+            {
+                ListViewItem item = new ListViewItem(service);
+                lvEditResponses.Items.Add(item);
+            }
 
         }
 
@@ -333,8 +355,10 @@ namespace EmeraldProxyManager
             rtiEditor.ShowDialog();
 
             AllOperations = rtiEditor.Operations;
-            rtbRequest.Text = XmlHelper.FormatAsXML(rtiEditor.EditedContent);
-            XmlHelper.HighlightRTF(rtbRequest);
+            LoadEditedServices();
+
+            //rtbRequest.Text = XmlHelper.FormatAsXML(rtiEditor.EditedContent);
+            //XmlHelper.HighlightRTF(rtbRequest);
         }
 
         private void btnEditResponse_Click(object sender, EventArgs e)
@@ -343,9 +367,10 @@ namespace EmeraldProxyManager
 
             rtiEditor.ShowDialog();
             AllOperations = rtiEditor.Operations;
+            LoadEditedServices();
 
-            rtbResponse.Text = XmlHelper.FormatAsXML(rtiEditor.EditedContent);
-            XmlHelper.HighlightRTF(rtbResponse);
+            //rtbResponse.Text = XmlHelper.FormatAsXML(rtiEditor.EditedContent);
+            //XmlHelper.HighlightRTF(rtbResponse);
         }
     }
 

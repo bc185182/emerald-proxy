@@ -149,8 +149,8 @@ namespace EmeraldProxyManager
                             return possiblexPath;
                     }
                 }
-                else
-                    return "";
+                //else
+                //    return "";
             }
 
             return "";
